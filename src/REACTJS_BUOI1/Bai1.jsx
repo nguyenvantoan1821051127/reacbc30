@@ -36,40 +36,48 @@ export default class Bai1 extends Component {
                 <div className="col-3">
                     <div className="card">
                         <img src='./img/products/black-car.jpg' alt='...' />
-                        <div className="car-body py-4">
+                        <div className="car-body ">
                             <h3>Card title</h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia aspernatur laudantium fugiat architecto saepe! Modi quisquam voluptatem cum at sapiente quidem nulla harum quas deleniti!</p>
-                            <a className="btn btn-primary btn-lg" href="#!">Find Out More!</a>
+                            <div className='bg-secondary p-3'>
+                                <a className="btn btn-primary btn-lg " href="#!">Find Out More!</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div className="col-3">
                     <div className="card">
                         <img src='./img/products/black-car.jpg' alt='...' />
-                        <div className="car-body py-4">
+                        <div className="car-body ">
                             <h3>Card title</h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia aspernatur laudantium fugiat architecto saepe! Modi quisquam voluptatem cum at sapiente quidem nulla harum quas deleniti!</p>
-                            <a className="btn btn-primary btn-lg " href="#!">Find Out More!</a>
+                            <div className='bg-secondary p-3'>
+                                <a className="btn btn-primary btn-lg " href="#!">Find Out More!</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div className="col-3">
                     <div className="card">
                         <img src='./img/products/black-car.jpg' alt='...' />
-                        <div className="car-body py-4">
+                        <div className="car-body">
                             <h3>Card title</h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia aspernatur laudantium fugiat architecto saepe! Modi quisquam voluptatem cum at sapiente quidem nulla harum quas deleniti!</p>
-                            <a className="btn btn-primary btn-lg " href="#!">Find Out More!</a>
+                            <div className='bg-secondary p-3'>
+                                <a className="btn btn-primary btn-lg " href="#!">Find Out More!</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div className="col-3">
                     <div className="card">
                         <img src='./img/products/black-car.jpg' alt='...' />
-                        <div className="car-body py-4">
+                        <div className="car-body ">
                             <h3>Card title</h3>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia aspernatur laudantium fugiat architecto saepe! Modi quisquam voluptatem cum at sapiente quidem nulla harum quas deleniti!</p>
-                            <a className="btn btn-primary btn-lg " href="#!">Find Out More!</a>
+                            <div className='bg-secondary p-3'>
+                                <a className="btn btn-primary btn-lg " href="#!">Find Out More!</a>
+                            </div>
                         </div>
                     </div>
                 </div>
